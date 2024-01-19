@@ -1,5 +1,7 @@
 # Segmentation from Natural Language Expressions
-This repository contains the code for the following paper:
+This repository contains the senior design project for the courses EE 491 & 492 at Boğaziçi University, İstanbul.
+
+The code is based on the following paper:
 
 * R. Hu, M. Rohrbach, T. Darrell, *Segmentation from Natural Language Expressions*. in ECCV, 2016. ([PDF](http://arxiv.org/pdf/1603.06180))
 ```
@@ -11,11 +13,13 @@ This repository contains the code for the following paper:
 }
 ```
 
+Official Repository : https://github.com/ronghanghu/text_objseg
 Project Page: http://ronghanghu.com/text_objseg  
 
 ## Installation
 1. Install Google TensorFlow (v1.0.0 or higher) following the instructions [here](https://www.tensorflow.org/install/).
 2. Download this repository or clone with Git, and then `cd` into the root directory of the repository.
+3. For downloading dataset and pre-trained models `gdown` is needed. It can bi installed via the command `pip install gdown`. 
 
 ## Demo
 1. Download the trained models:  
