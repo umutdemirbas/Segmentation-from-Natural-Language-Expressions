@@ -26,8 +26,6 @@ Project Page: http://ronghanghu.com/text_objseg
 `exp-referit/tfmodel/download_trained_models.sh`.
 2. Run the language-based segmentation model demo in `./demo/text_objseg_demo.ipynb` with [Jupyter Notebook (IPython Notebook)](http://ipython.org/notebook.html).
 
-![Image](http://www.eecs.berkeley.edu/~ronghang/projects/text_objseg/text_objseg_demo.jpg)
-
 ## Training and evaluation on ReferIt Dataset
 
 ### Download dataset and VGG network
